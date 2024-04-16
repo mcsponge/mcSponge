@@ -1,4 +1,5 @@
-### Hi there 👋
+### mcSponge
+Welcome to mcSponge
 
 <!--
 **mcsponge/mcSponge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
